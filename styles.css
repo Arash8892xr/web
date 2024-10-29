@@ -80,6 +80,17 @@ body {
     position: relative;
     top: 6px;
 }
-
+.button{
+    text-transform: uppercase;
+    position: none;
+    outline: none;
+    color: wheat;
+    padding: 10px 40px;
+    background-color: linear-gradient;(
+     90deg  
+    )
+    background-size: 300%;
+    border-radius:30px;
+}
 
 
