@@ -16,6 +16,7 @@ body {
     height: 150px;
     margin-left: 20px;
     float: left;
+    border-radius: 10px;
 }
 .info {
     font-size: 25px;
@@ -87,6 +88,36 @@ body {
     margin-right: 30px;
     float: left;
 }
+.manu2 {
+    background-color: brown;
+    height: 40px;
+}
+.manu2 li {
+    display:inline-block;
+    margin-top: 10px;
+    padding-right: 80px;
+    padding-left: 65px;
+}
+.manu2 li a {
+    background-color: #ff0000;
+    color: wheat;
+    text-decoration: none;
+    margin-bottom: 200px;
+    padding: 5px
+}
+.manu2 li a {
+    border-radius: 88px;
+}
+.manu2 li:active {
+    background-color: #5a2424;
 
+}
+.manu2 li:active {
+    position: relative;
+    top: 6px;
+}
+.imgmta img {
+    border-radius: 180px;
+}
 
 
