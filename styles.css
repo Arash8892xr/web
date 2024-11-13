@@ -150,3 +150,14 @@ body {
 .donate li :active {
     background-color: #5a2424;
 }
+.safed img  {
+    width: 1200px;
+    height: 1200px;
+}
+.row {
+
+display: flex;
+flex-wrap: wrap;
+margin-right: -15px;
+}
+
