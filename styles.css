@@ -51,7 +51,7 @@ body {
     color: rgb(0, 0, 0);
 }
 .manu {
-    background-color: rgb(24, 23, 23);
+    background-color: rgb(56, 56, 56);
     height: 40px;
 }
 .manu ul {
@@ -163,4 +163,30 @@ margin-right: -15px;
 .music audio {
     background-color: #424242;
 }
-
+*{
+    margin: 0;
+    padding: 0;
+}
+#main-menu li{
+    float: right;
+    width: 120px;
+    height: 40px;
+    line-height: 40px;
+    list-style: none;
+    text-align: center;
+    background: #2c2c2c;
+}
+#main-menu li a{
+    text-decoration: none;
+    color: wheat;
+    font-weight: bold;
+}
+#main-menu ul{
+    display: none;
+}
+#main-menu li:hover ul{
+    display: block;
+}
+#main-menu li:hover{
+    background: #494949;
+}
