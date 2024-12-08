@@ -1,7 +1,7 @@
 body {
     margin: 0%;
     color: #000000;
-    background-color: rgb(56, 56, 56);
+    background-color: rgb(224, 224, 224);
 }
 .header {
     margin: 0;
@@ -90,7 +90,7 @@ body {
     float: left;
 }
 .manu2 {
-    background-color: rgb(56, 56, 56);
+    background-color: rgb(aliceblue (224, 224, 224));
     height: 40px;
 }
 .manu2 li {
@@ -110,11 +110,11 @@ body {
     border-radius: 88px;
 }
 .manu2 li:active {
-    background-color: #ffffff;
+    background-color: aliceblue (224, 224, 224);
 
 }
 .manu2 li:active {
-    background-color: #ffffff;
+    background-color:aliceblue (224, 224, 224);
 }
 .imgmta img {
     border-radius: 180px;
@@ -161,7 +161,7 @@ flex-wrap: wrap;
 margin-right: -15px;
 }
 .music audio {
-    background-color: #424242;
+    background-color: 224, 224, 224;
 }
 *{
     margin: 0;
@@ -229,3 +229,9 @@ form {
     width: 300px;
     height: 300px;
   }
+  .ava iframe {
+    width: 1900px;
+    height: 1900px;
+
+  }
+  
